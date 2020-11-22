@@ -6,8 +6,10 @@
 * [Diagrama de Fluxo de Dados ou Diagrama de Atividades](https://s1.imghub.io/mFQMU.png)
   ![mFQMU.png](https://s1.imghub.io/mFQMU.png)
 
-* Diagrama de Classe
+* [Diagrama de Classe](https://s1.imghub.io/mGiIT.png)
+  ![mGiIT.png](https://s1.imghub.io/mGiIT.png)
 
 * Diagrama Entidade Relacional (ER)
+  ![mGJqS.png](https://s1.imghub.io/mGJqS.png)
 
 * Diagrama de Componentes/Deployment
