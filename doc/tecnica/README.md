@@ -1,8 +1,10 @@
 ## Diagramas
 
-* [Diagram de Caso de Uso ... Funcioanalidades](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/UML_Use_Case_diagram.svg/513px-UML_Use_Case_diagram.svg.png)
+* [Diagram de Caso de Uso ... Funcioanalidades](https://s1.imghub.io/mF2cy.png)
+  ![mF2cy.png](https://s1.imghub.io/mF2cy.png)
 
-* Diagrama de Fluxo de Dados ou Diagrama de Atividades
+* [Diagrama de Fluxo de Dados ou Diagrama de Atividades](https://s1.imghub.io/mFQMU.png)
+  ![mFQMU.png](https://s1.imghub.io/mFQMU.png)
 
 * Diagrama de Classe
 
